@@ -888,9 +888,9 @@
      <property name="geometry">
       <rect>
        <x>5</x>
-       <y>20</y>
-       <width>606</width>
-       <height>58</height>
+       <y>10</y>
+       <width>620</width>
+       <height>63</height>
       </rect>
      </property>
      <layout class="QGridLayout" name="gridLayout_4">
@@ -1066,7 +1066,7 @@
       <rect>
        <x>10</x>
        <y>20</y>
-       <width>219</width>
+       <width>244</width>
        <height>171</height>
       </rect>
      </property>
@@ -1186,9 +1186,15 @@
         </property>
         <property name="maximumSize">
          <size>
-          <width>150</width>
+          <width>180</width>
           <height>16777215</height>
          </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>Segoe UI</family>
+          <pointsize>7</pointsize>
+         </font>
         </property>
         <property name="text">
          <string>Set to Sample</string>
@@ -1205,9 +1211,15 @@
         </property>
         <property name="maximumSize">
          <size>
-          <width>150</width>
+          <width>180</width>
           <height>16777215</height>
          </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>Segoe UI</family>
+          <pointsize>7</pointsize>
+         </font>
         </property>
         <property name="text">
          <string>GO Home</string>
@@ -1610,6 +1622,12 @@
           <height>16777215</height>
          </size>
         </property>
+        <property name="font">
+         <font>
+          <family>Segoe UI</family>
+          <pointsize>7</pointsize>
+         </font>
+        </property>
         <property name="text">
          <string>ERROR [Press to clear]</string>
         </property>
@@ -1705,8 +1723,8 @@
       <rect>
        <x>10</x>
        <y>20</y>
-       <width>131</width>
-       <height>41</height>
+       <width>171</width>
+       <height>43</height>
       </rect>
      </property>
      <layout class="QGridLayout" name="gridLayout_13">
@@ -1720,7 +1738,7 @@
         </property>
         <property name="maximumSize">
          <size>
-          <width>50</width>
+          <width>70</width>
           <height>50</height>
          </size>
         </property>
@@ -1739,7 +1757,7 @@
         </property>
         <property name="maximumSize">
          <size>
-          <width>50</width>
+          <width>71</width>
           <height>16777215</height>
          </size>
         </property>
@@ -1787,7 +1805,7 @@
      <x>0</x>
      <y>0</y>
      <width>1000</width>
-     <height>22</height>
+     <height>21</height>
     </rect>
    </property>
    <widget class="QMenu" name="menuCalls">
