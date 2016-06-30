@@ -1,3 +1,4 @@
+//The HSS library by Patrick Bihn is licensed under CC BY 3.0
 #include "Arduino.h"
 class HSS
 {

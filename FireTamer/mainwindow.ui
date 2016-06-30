@@ -889,7 +889,11 @@
       <rect>
        <x>5</x>
        <y>10</y>
+<<<<<<< Updated upstream
        <width>620</width>
+=======
+       <width>591</width>
+>>>>>>> Stashed changes
        <height>63</height>
       </rect>
      </property>
@@ -1066,7 +1070,11 @@
       <rect>
        <x>10</x>
        <y>20</y>
+<<<<<<< Updated upstream
        <width>244</width>
+=======
+       <width>222</width>
+>>>>>>> Stashed changes
        <height>171</height>
       </rect>
      </property>
@@ -1193,7 +1201,11 @@
         <property name="font">
          <font>
           <family>Segoe UI</family>
+<<<<<<< Updated upstream
           <pointsize>7</pointsize>
+=======
+          <pointsize>8</pointsize>
+>>>>>>> Stashed changes
          </font>
         </property>
         <property name="text">
@@ -1218,7 +1230,11 @@
         <property name="font">
          <font>
           <family>Segoe UI</family>
+<<<<<<< Updated upstream
           <pointsize>7</pointsize>
+=======
+          <pointsize>8</pointsize>
+>>>>>>> Stashed changes
          </font>
         </property>
         <property name="text">
@@ -1723,7 +1739,11 @@
       <rect>
        <x>10</x>
        <y>20</y>
+<<<<<<< Updated upstream
        <width>171</width>
+=======
+       <width>181</width>
+>>>>>>> Stashed changes
        <height>43</height>
       </rect>
      </property>
@@ -1738,7 +1758,11 @@
         </property>
         <property name="maximumSize">
          <size>
+<<<<<<< Updated upstream
           <width>70</width>
+=======
+          <width>61</width>
+>>>>>>> Stashed changes
           <height>50</height>
          </size>
         </property>
@@ -1757,7 +1781,11 @@
         </property>
         <property name="maximumSize">
          <size>
+<<<<<<< Updated upstream
           <width>71</width>
+=======
+          <width>59</width>
+>>>>>>> Stashed changes
           <height>16777215</height>
          </size>
         </property>
